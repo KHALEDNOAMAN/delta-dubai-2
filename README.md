@@ -93,5 +93,8 @@ MODERN — SCALABLE — HIGH PERFORMANCE
 BUILD DIFFERENT.
 
 🇦🇪
+## License
 
+© 2026 TAK Team. All rights reserved.
+Unauthorized copying, modification, or redistribution is prohibited.
 </div>
